@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icons/boy.png</file>
+    <file>icons/currency_exchange.png</file>
+    <file>icons/exit.png</file>
+    <file>icons/home.png</file>
+    <file>icons/order-food.png</file>
+    <file>icons/search.png</file>
+    <file>icons/settings.png</file>
+    <file>icons/youtube.jpg</file>
+  </qresource>
+</RCC>
